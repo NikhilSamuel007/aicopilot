@@ -4,7 +4,7 @@ AI Copilot is a high-performance Retrieval-Augmented Generation (RAG) agent buil
 
 ## 🚀 Features
 
-- **Tool-Calling Agent**: Uses LangChain 1.x / LangGraph patterns to intelligently decide when to search the knowledge base.
+- **Tool-Calling Agent**: Uses LangChain / LangGraph patterns to intelligently decide when to search the knowledge base.
 - **Multi-Format Support**: Seamlessly ingest and query information from **PDF** and **DOCX** files.
 - **Fast Inference**: Powered by **Groq** for lightning-fast LLM responses.
 - **Modern Embeddings**: Uses `langchain-huggingface` with high-quality inference-based embeddings.
